@@ -64,7 +64,6 @@ while True:
         j = r.json()
         img_url = jsonpath.jsonpath(j, '$.data.image_url')
         r.close()
-        print(img_url)
         if img_url is False:
             sg.Popup("上传出错！可能是网络、文件、SESSDATA过期等问题！")
             continue
