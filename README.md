@@ -18,10 +18,15 @@ http://api.vc.bilibili.com/api/v1/drawImage/upload
 
 ## 使用指南
 1.打开软件
+
 **第一次使用需要2-3步**
-***2.获取SESSDATA（如何获取看上文链接）
-3.输入SESSDATA***
+
+2.获取SESSDATA（如何获取看上文链接）
+
+3.输入SESSDATA
+
 ![image](https://s1.ax1x.com/2022/07/29/vPOH3V.jpg)
+
 4.点击“选择图片”
 
 5.点击“复制链接”即可获得链接
